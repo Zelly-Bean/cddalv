@@ -1,0 +1,4 @@
+Challenge_EN = {
+	Challenge_AReallyCDDAy-Louisville_name = "A Really CA DA - Louisville",
+    Challenge_AReallyCDDAy-Louisville_desc = "You get out of the shower and fall badly. You're blind drunk, and have a nasty cold. <LINE> <LINE> On top of all this, the house is on fire! Today is definitely not your day <LINE> <LINE> Louisville edition! 5 different spawn locations included. No, you don't get to pick your spawn location. Have fun! :)",
+}
