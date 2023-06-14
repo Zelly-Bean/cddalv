@@ -1,1 +1,2 @@
-# cddalv
+# CDDA: Louisville
+A mod that adds a new challenge mode. It has the same starting settings as the vanilla CDDA mode. However, instead of spawning in northern Muldragh, you spawn in one of 5 random spawns in Louisville.
