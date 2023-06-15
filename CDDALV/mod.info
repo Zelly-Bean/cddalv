@@ -2,3 +2,6 @@ name=CDDA: Louisville
 id=CDDALV
 description=Vanilla CDDA settings, but you spawn in one of 5 random locations in Louisville. Fun!
 poster=poster.png
+authors=Zelen
+icon=mini-poster.png
+url=https://github.com/Zelly-Bean/cddalv
